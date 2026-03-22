@@ -1,1 +1,1 @@
-This is my first Git laboratory activity. This is a feature branch update.
+This is my first Git laboratory activity in main and feature1. This is a feature branch update.
